@@ -81,6 +81,7 @@ With the rapid rise of online media, the spread of fake news has become a critic
     Copy
     Edit
     python train_model.py
+    
 3.Make a prediction:
   bash
     Copy
